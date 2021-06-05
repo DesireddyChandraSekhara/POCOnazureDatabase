@@ -1,0 +1,4 @@
+d:\Chandrasekhar_POC\Database Repo\POCOnazureDatabase\ChanduDotNetDBProject\bin\Debug\ChanduDotNetDBProject.dacpac
+d:\Chandrasekhar_POC\Database Repo\POCOnazureDatabase\ChanduDotNetDBProject\obj\Debug\ChanduDotNetDBProject.sqlprojAssemblyReference.cache
+d:\Chandrasekhar_POC\Database Repo\POCOnazureDatabase\ChanduDotNetDBProject\obj\Debug\ChanduDotNetDBProject.dll
+d:\Chandrasekhar_POC\Database Repo\POCOnazureDatabase\ChanduDotNetDBProject\obj\Debug\ChanduDotNetDBProject.pdb
